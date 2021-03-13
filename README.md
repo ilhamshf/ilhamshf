@@ -1,9 +1,11 @@
 <h3 align="center">Hai, Selamat Datang di Profile ku 👋</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamshf&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamshf" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ilham.shff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ilham.shff" height="30" width="40" /></a>
-<a href="https://discord.gg/ilhamshf#8364" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ilhamshf#8364" height="30" width="40" /></a>
+<a href="https://discord.gg/6HX4zb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6HX4zb8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
