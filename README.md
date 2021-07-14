@@ -1,16 +1,36 @@
-<h3 align="center">Hai, Selamat Datang di Profile ku 👋</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamshf&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamshf" /> </p>
-
-<h3 align="left">Bergabung dengan saya di:</h3>
-<p align="left">
-<a href="https://instagram.com/ilham.shff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ilham.shff" height="30" width="40" /></a>
-<a href="https://discord.gg/6HX4zb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6HX4zb8" height="30" width="40" /></a>
+## Hello I'M Muhammad Fadhila Abiyyu Faris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif"  width="23px">
+<p align="center">
+<img height="auto" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" align="center"/>
 </p>
 
-<h3 align="left">Bahasa dan Apk:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+📫 Follow Me On
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamshf&show_icons=true&locale=en&layout=compact" alt="ilhamshf" /></p>
+<p align="center">
+<a href="https://www.instagram.com/ilham.shff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhamshf&show_icons=true&locale=en" alt="ilhamshf" /></p>
+### 📉 Stats
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fadhila36&v=2)
+![Ilham Shofa](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhila36&theme=vue)
+
+<p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fadhila36&theme=tokyonight" />
+  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=flat-square&color=orange" />
+</p>
+
+
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
