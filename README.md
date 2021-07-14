@@ -15,7 +15,7 @@
 
 ### 📉 Stats
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ilhamshf&v=2)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ilhamshf)
 ![Ilham Shofa](https://github-readme-stats.vercel.app/api?username=ilhamshf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamshf&theme=vue)
 
